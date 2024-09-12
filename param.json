@@ -1,0 +1,10 @@
+{
+    "noise_dims": 401,
+    "noise_amplitude": 1,
+    "numIter": 10000,
+    "num_wavelength": 401,
+    "lr": 1e-04,
+    "gamma": 1.0,
+    "step_size": 5000000,
+    "batch_size": 200
+}
